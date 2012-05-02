@@ -1,0 +1,5 @@
+XSym
+0154
+490340d63cee747342b8c5eeda1d2030
+/Users/alisharif/Desktop/Developer/FaceGame/DerivedData/FaceGame/ArchiveIntermediates/FaceGame/IntermediateBuildFilesPath/UninstalledProducts/FaceGame.app
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

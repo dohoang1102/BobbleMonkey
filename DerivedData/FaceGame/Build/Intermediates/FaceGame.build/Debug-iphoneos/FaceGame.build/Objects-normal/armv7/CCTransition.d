@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCTransition.m \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCTransition.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCScene.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCNode.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Platforms/CCGL.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Platforms/iOS/glu.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Platforms/iOS/EAGLView.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Platforms/iOS/ESRenderer.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCAction.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/ccTypes.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCTexture2D.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Platforms/CCNS.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCProtocols.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/ccConfig.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Support/CCArray.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Support/ccCArray.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCDirector.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCActionInterval.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCActionInstant.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCActionCamera.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCLayer.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCCamera.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCActionTiledGrid.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCActionGrid.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCGrid.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCActionEase.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCRenderTexture.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCSprite.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/CCTextureAtlas.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Support/OpenGL_Internal.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Support/CGPointExtension.h \
+  /Users/alisharif/Desktop/Developer/FaceGame/FaceGame/Libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h

@@ -1,0 +1,31 @@
+Contents of /Users/alisharif/Desktop/FaceGame/FaceGame/FaceGame-Prefix.pch
+3.0 (tags/Apple/clang-211.9) (based on LLVM 3.0svn)
+arm-apple-darwin11.3.0
+-x
+objective-c
+-arch
+armv7
+-fmessage-length=0
+-fdiagnostics-print-source-range-info
+-fdiagnostics-show-category=id
+-fdiagnostics-parseable-fixits
+-std=gnu99
+-fpascal-strings
+-Os
+-isysroot
+/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+-gdwarf-2
+-fvisibility=hidden
+-mthumb
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-miphoneos-version-min=5.0
+-iquote
+-iquote
+-I/Users/alisharif/Desktop/FaceGame/DerivedData/FaceGame/ArchiveIntermediates/FaceGame/BuildProductsPath/Release-iphoneos/include
+-I/usr/include/libxml2
+-I/usr/include/libxml2/libxml
+-F/Users/alisharif/Desktop/FaceGame/DerivedData/FaceGame/ArchiveIntermediates/FaceGame/BuildProductsPath/Release-iphoneos
+-DNS_BLOCK_ASSERTIONS=1
+SDK_PRODUCT_BUILD_VERSION=9A334

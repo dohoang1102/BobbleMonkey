@@ -1,0 +1,24 @@
+Contents of /Users/alisharif/Desktop/FaceGame/FaceGame/FaceGame-Prefix.pch
+3.1 (tags/Apple/clang-318.0.58) (based on LLVM 3.1svn)
+arm-apple-darwin11.3.0
+-x
+c
+-arch
+armv7
+-fmessage-length=0
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+-g
+-mthumb
+-miphoneos-version-min=5.0
+-iquote
+-iquote
+-I/Users/alisharif/Desktop/FaceGame/DerivedData/FaceGame/Build/Products/Debug-iphoneos/include
+-I/usr/include/libxml2
+-I/usr/include/libxml2/libxml
+-F/Users/alisharif/Desktop/FaceGame/DerivedData/FaceGame/Build/Products/Debug-iphoneos
+SDK_PRODUCT_BUILD_VERSION=9B176
