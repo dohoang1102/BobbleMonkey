@@ -10,7 +10,7 @@ The Game
 
 It is a side-scrolling game. You tilt your head right, the monkey moves right. You tilt your head left, the monkey moves left. The goal is to catch as many fruits as possible and avoid all stone tablets. 
 
-Demo:
+Demo: Hello World. 
 
 ![My image](https://github.com/ali-sharif/FaceGame/blob/master/Screenshots/iPad/home.png)
 
@@ -47,7 +47,7 @@ Appstore Update
 
 - Add a new game which can be played using the same gaming mechanism.  
 
-This application is a hybrid of Cocos2D(http://www.cocos2d-iphone.org/)and UIKit an incorporates the following api's:
+This application is a hybrid of Cocos2D( http://www.cocos2d-iphone.org/ ) and UIKit an incorporates the following api's:
 
 iOS 5 face Detection Api: 
 Accelerometer Api
