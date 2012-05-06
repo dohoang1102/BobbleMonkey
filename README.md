@@ -10,9 +10,11 @@ The Game
 
 It is a side-scrolling game. You tilt your head right, the monkey moves right. You tilt your head left, the monkey moves left. The goal is to catch as many fruits as possible and avoid all stone tablets. 
 
-Demo: Hello World. 
+Demo: My Image:
 
-![My image](https://github.com/ali-sharif/FaceGame/blob/master/Screenshots/iPad/home.png)
+[![](https://github.com/ali-sharif/FaceGame/blob/master/Screenshots/iPad/home.png)](https://github.com/ali-sharif/FaceGame/blob/master/Screenshots/iPad/home.png)
+
+
 
 Known Issues:
 
