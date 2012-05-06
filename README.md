@@ -12,7 +12,7 @@ It is a side-scrolling game. You tilt your head right, the monkey moves right. Y
 
 Demo: My Image:
 
-[![](http://i49.tinypic.com/28kr5hh.jpg)](http://i49.tinypic.com/28kr5hh.jpg)
+[![](http://i49.tinypic.com/r246qa.png)](http://i49.tinypic.com/r246qa.png)
 
 
 
