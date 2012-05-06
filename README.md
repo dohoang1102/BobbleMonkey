@@ -12,7 +12,7 @@ It is a side-scrolling game. You tilt your head right, the monkey moves right. Y
 
 Demo:
 
-![My image](https://github.com/ali-sharif/FaceGame/Screenshots/iPad/home.png)
+![My image](https://github.com/ali-sharif/FaceGame/blob/master/Screenshots/iPad/home.png)
 
 Known Issues:
 
