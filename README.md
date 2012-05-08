@@ -25,27 +25,21 @@ It is a side-scrolling game. You tilt your head right, the monkey moves right. Y
 <a href="http://www.flickr.com/photos/46486952@N02/7161031760/" title="IMG_0102 by al242, on Flickr"><img src="http://farm9.staticflickr.com/8022/7161031760_fffafbc97c_m.jpg" width="160" height="240" alt="IMG_0102"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7161032122/" title="IMG_0105 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7218/7161032122_a9e37572a7_m.jpg" width="160" height="240" alt="IMG_0105"></a>
 
+Past and Future
+-------------------
 
-The project is currently progessing at a crawl because I don't personally own any Apple computers or devices (being a student), so at the time, I am doing most of the development at the UW Macintosh Lab and borrowing my friends' devices for testing. The bulk of the coding for the project came together around the March - April 2012 timeline. 
+This game represents my attempt at learning Objective-C and 2D game development. Most of this came together while I was mucking around with the apple devices I had temporary access to and this was one of those what-if itches that i wanted to scratch. 
 
-
-
-The Game
---------
-
-
-
-Demo: My Image:
+The project is currently progessing at a crawl because I don't personally own any Apple computers or devices (being a student), so at the time, I am doing most of the development at the UW Macintosh Lab and borrowing my friends' devices for testing. Soon after my acquisition of a Macintosh, I am planning on publishing the application on the app-store.  
 
 
 
+Issues
+------
 
-
-Known Issues:
-
-The application does not work well on the iPhone 4 and the iPod Touch fourth gen. Here is what I suspect is why:
-Issue 1: Currently, the Face Detector object is communicating with the Game Controller object using NSNotifactionCenter which has obvious overhead but there were thread safety issues with the communication between the Face Detector object and the Game Controller object and that was a quick fix. 
-Issue 2: The processing of the image is very CPU intensive. On the iPad2, the grand central dispatch delegates the image-processing responsibility to the second core whereas the drawing and the image processing appears to be occurring on the same processor. An obvious solution to this issue would be to reduce the processing time. This would be accomplished by scaling the size of the image down to about 25% before sending it to be processed, the rationale being: less pixels to be processed, therefore reduced time for processing. This would reduce the accuracy of the face detection but I am only interested in the relative position of the face features.
+*The application does not work well on the iPhone 4 and the iPod Touch fourth gen. Here is what I suspect is why:
+ *Issue 1: Currently, the Face Detector object is communicating with the Game Controller object using NSNotifactionCenter which has obvious overhead but there were thread safety issues with the communication between the Face Detector object and the Game Controller object and that was a quick fix. 
+ *Issue 2: The processing of the image is very CPU intensive. On the iPad2, the grand central dispatch delegates the image-processing responsibility to the second core whereas the drawing and the image processing appears to be occurring on the same processor. An obvious solution to this issue would be to reduce the processing time. This would be accomplished by scaling the size of the image down to about 25% before sending it to be processed, the rationale being: less pixels to be processed, therefore reduced time for processing. This would reduce the accuracy of the face detection but I am only interested in the relative position of the face features.
 
 
 Technical Roadmap
