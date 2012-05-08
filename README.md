@@ -6,6 +6,7 @@ A Game You Can Play With Your Head!
 
 This is an attempt to create a unique game-playing mechanism for iOS devices; think of this as bringing the Kinect-like interactivity to the iOS platform using computer vision. The idea was that instead of interacting with the device using your fingers, the input is your head. The result is a modular mechanism into which I can drop any Cocos2D game or UIKit application, which can then be driven using the movement of the user's head. As a proof of concept for the idea, I have written a game which could be played with your head.  
 
+
 The Game
 --------
 
@@ -25,13 +26,13 @@ It is a side-scrolling game. You tilt your head right, the monkey moves right. Y
 <a href="http://www.flickr.com/photos/46486952@N02/7161031760/" title="IMG_0102 by al242, on Flickr"><img src="http://farm9.staticflickr.com/8022/7161031760_fffafbc97c_m.jpg" width="160" height="240" alt="IMG_0102"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7161032122/" title="IMG_0105 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7218/7161032122_a9e37572a7_m.jpg" width="160" height="240" alt="IMG_0105"></a>
 
+
 Past and Future
 -------------------
 
 This game represents my attempt at learning Objective-C and 2D game development. Most of this came together while I was mucking around with the apple devices I had temporary access to and this was one of those what-if itches that i wanted to scratch. 
 
 The project is currently progessing at a crawl because I don't personally own any Apple computers or devices (being a student), so at the time, I am doing most of the development at the UW Macintosh Lab and borrowing my friends' devices for testing. Soon after my acquisition of a Macintosh, I am planning on publishing the application on the app-store.  
-
 
 
 Issues
@@ -43,11 +44,11 @@ Issues
 
 
 Technical Roadmap
+----------------
 
-- Fix application navigation: Currently, there is no way to exit from the game to the menu
-- Fix loading indicators: Currently, there is no standard loading paradigm which makes the application feel disjointed
-
-Appstore Release
+* Fix application navigation: Currently, there is no way to exit from the game to the menu
+* Fix loading indicators: Currently, there is no standard loading paradigm which makes the application feel disjointed
+* __**Appstore Release**__
 
 - Leveling up Mechanism: Currently, there are 8 levels which are all unlocked. This needs to be improved such that there is only one level unlocked and the user needs to acheive a certain score on each level to unlock the following level 
 - High Score Mechanism: The players need an incentive to play the game.
