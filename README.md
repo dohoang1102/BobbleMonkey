@@ -1,14 +1,20 @@
 BobbleMonkey
 ============
 
+It's A Game You Can Play With Your Head 
+----------------------------------------
+
+This is an attempt to create a unique game-playing mechanism for iOS devices; think of this as bringing the Kinect-like interactivity to the iOS platform using computer vision. The idea was that instead of interacting with the device using your fingers, the input is your head. The result is a modular mechanism into which I can drop any Cocos2D game or UIKit application, which can then be driven using the movement of the user's head. As a proof of concept for the idea, I have written a game which could be played with your head.  
+
+How I got Here
 This project started out with me mucking around with the Macbook and the iOS devices I had received at my 4-month internship at the time. The project is currently progessing at a crawl because I don't personally own any Apple computers or devices (being a student), so at the time, I am doing most of the development at the UW Macintosh Lab and borrowing my friends' devices for testing. The bulk of the coding for the project came together around the March - April 2012 timeline. 
 
-The project: This is an attempt to create a unique game-playing mechanism for iOS devices; think of this as bringing the Kinect-like interactivity to the iOS platform using computer vision. The idea was that instead of interacting with the device using your fingers or physically moving the device, the input is your head. The result is a modular mechanism into which I can drop any Cocos2D game or UIKit application that accepts as an input the movement of the user's head. As a proof of concept for the idea, I have written a game which could be played with your head!  
+
 
 The Game
 --------
 
-It is a side-scrolling game. You tilt your head right, the monkey moves right. You tilt your head left, the monkey moves left. The goal is to catch as many fruits as possible and avoid all stone tablets. 
+
 
 Demo: My Image:
 
