@@ -11,13 +11,13 @@ The Game
 
 It is a side-scrolling game. You tilt your head right, the monkey moves right. You tilt your head left, the monkey moves left. The goal is to catch as many fruits as possible and avoid all stone tablets. 
 
-*iPad Screenshots*
+**iPad Screenshots**
 
 <a href="http://www.flickr.com/photos/46486952@N02/7160779242/" title="IMG_0139 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7091/7160779468_acf9939326.jpg" width="240" height="320" alt="IMG_0140"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7160779882/" title="IMG_0142 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7226/7160779882_27d41d2244.jpg" width="240" height="320" alt="IMG_0142"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7160778606/" title="IMG_0147 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7093/7160778606_44d2e0fb0e.jpg" width="240" height="320" alt="IMG_0147"></a>
 
-*iPhone Screenshots*
+_*iPhone Screenshots*_
 
 
 
