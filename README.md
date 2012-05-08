@@ -4,8 +4,9 @@ BobbleMonkey
 A Game You Can Play With Your Head!
 ----------------------------------------
 
-This is an attempt to create a unique game-playing mechanism for iOS devices; think of this as bringing the Kinect-like interactivity to the iOS platform using computer vision. The idea was that instead of interacting with the device using your fingers, the input is your head. The result is a modular mechanism into which I can drop any Cocos2D game or UIKit application, which can then be driven using the movement of the user's head. As a proof of concept for the idea, I have written a game which could be played with your head.  
+This is an attempt to create a unique game-playing mechanism for iOS devices; think of this as bringing the Kinect-like interactivity to the iOS platform using computer vision. The idea was that instead of interacting with the device using your fingers, the input is your head. The result is a modular mechanism into which I can drop any Cocos2D game or UIKit application, which can then be driven using the movement of the user's head. As a proof of concept for the idea, I have written a game which could be played with your head. 
 
+This application is a hybrid of Cocos2D( http://www.cocos2d-iphone.org/ ) and UIKit an incorporates some iOS 5 specific api's.
 
 The Game
 --------
@@ -34,7 +35,13 @@ There is a built-in detection mechanism which puases the game and saves the stat
 Demo
 ----
 
-I have put up a demo on YouTube
+Me performing a demo on YouTube: http://www.youtube.com/watch?v=tRVsehG0Sxk
+
+Minimum Requirements
+--------------------
+
+* iOS 5
+* Front-facing camera
 
 Past and Future
 -------------------
@@ -71,5 +78,4 @@ Technical Roadmap
 * Game Center Integration
 * **Appstore Update**
 * Add a new game which can be played using the same gaming mechanism.  
-* This application is a hybrid of Cocos2D( http://www.cocos2d-iphone.org/ ) and UIKit an incorporates the following api's:
 
