@@ -13,6 +13,8 @@ It is a side-scrolling game. You tilt your head right, the monkey moves right. Y
 
 iPad Screenshots:
 
+<a href="http://www.flickr.com/photos/46486952@N02/7160779882/" title="IMG_0142 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7226/7160779882_27d41d2244_n.jpg" width="240" height="320" alt="IMG_0142"></a>
+
 [![](http://i49.tinypic.com/r246qa.png)](http://i49.tinypic.com/r246qa.png)
 [![](http://i45.tinypic.com/72rocl.png)](http://i45.tinypic.com/72rocl.png)
 
