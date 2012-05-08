@@ -11,14 +11,17 @@ The Game
 
 It is a side-scrolling game. You tilt your head right, the monkey moves right. You tilt your head left, the monkey moves left. The goal is to catch as many fruits as possible and avoid all stone tablets. 
 
-**iPad Screenshots**
+**iPad Screenshots:**
 
 <a href="http://www.flickr.com/photos/46486952@N02/7160779242/" title="IMG_0139 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7091/7160779468_acf9939326.jpg" width="240" height="320" alt="IMG_0140"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7160779882/" title="IMG_0142 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7226/7160779882_27d41d2244.jpg" width="240" height="320" alt="IMG_0142"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7160778606/" title="IMG_0147 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7093/7160778606_44d2e0fb0e.jpg" width="240" height="320" alt="IMG_0147"></a>
 
-_*iPhone Screenshots*_
+**iPhone Screenshots:**
 
+<a href="http://www.flickr.com/photos/46486952@N02/7161030800/" title="IMG_0090 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7079/7161030800_04b3845e25_m.jpg" width="160" height="240" alt="IMG_0090"></a>
+<a href="http://www.flickr.com/photos/46486952@N02/7161031570/" title="IMG_0098 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7229/7161031570_bd6cfe5e8c_m.jpg" width="160" height="240" alt="IMG_0098"></a>
+<a href="http://www.flickr.com/photos/46486952@N02/7161032122/" title="IMG_0105 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7218/7161032122_a9e37572a7_m.jpg" width="160" height="240" alt="IMG_0105"></a>
 
 
 The project is currently progessing at a crawl because I don't personally own any Apple computers or devices (being a student), so at the time, I am doing most of the development at the UW Macintosh Lab and borrowing my friends' devices for testing. The bulk of the coding for the project came together around the March - April 2012 timeline. 
