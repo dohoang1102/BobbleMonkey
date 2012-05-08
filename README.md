@@ -15,11 +15,10 @@ It is a side-scrolling game. You tilt your head right, the monkey moves right. Y
 
 There is a built-in detection mechanism which pauses the game and saves the state if: 
 
-1. The device is not horizontal (accelerometer)
+1. The device is not horizontal (accelerometer) OR
 
 2. The user's face is lost
 
-3. Or if both the conditions are met
 
 **iPad Screenshots:**
 
