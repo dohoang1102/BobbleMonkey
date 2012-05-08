@@ -21,8 +21,8 @@ It is a side-scrolling game. You tilt your head right, the monkey moves right. Y
 
 <a href="http://www.flickr.com/photos/46486952@N02/7161030800/" title="IMG_0090 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7079/7161030800_04b3845e25_m.jpg" width="160" height="240" alt="IMG_0090"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7161031028/" title="IMG_0093 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7102/7161031028_884ee01122_m.jpg" width="160" height="240" alt="IMG_0093"></a>
-<a href="http://www.flickr.com/photos/46486952@N02/7161030800/" title="IMG_0090 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7079/7161030800_04b3845e25_m.jpg" width="160" height="240" alt="IMG_0090"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7161031570/" title="IMG_0098 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7229/7161031570_bd6cfe5e8c_m.jpg" width="160" height="240" alt="IMG_0098"></a>
+<a href="http://www.flickr.com/photos/46486952@N02/7161031760/" title="IMG_0102 by al242, on Flickr"><img src="http://farm9.staticflickr.com/8022/7161031760_fffafbc97c_m.jpg" width="160" height="240" alt="IMG_0102"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7161032122/" title="IMG_0105 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7218/7161032122_a9e37572a7_m.jpg" width="160" height="240" alt="IMG_0105"></a>
 
 
