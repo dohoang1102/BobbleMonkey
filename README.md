@@ -12,6 +12,11 @@ The Game
 
 It is a side-scrolling game. You tilt your head right, the monkey moves right. You tilt your head left, the monkey moves left. The goal is to catch as many fruits as possible and avoid all stone tablets. 
 
+There is a built-in detection mechanism which puases the game and saves the state if: 
+1. The divice is not horizontal (uses accelerometer)
+2. The user's face is lost
+3. Or if both the conditions are met
+
 **iPad Screenshots:**
 
 <a href="http://www.flickr.com/photos/46486952@N02/7160779242/" title="IMG_0139 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7091/7160779468_acf9939326.jpg" width="240" height="320" alt="IMG_0140"></a>
@@ -26,6 +31,10 @@ It is a side-scrolling game. You tilt your head right, the monkey moves right. Y
 <a href="http://www.flickr.com/photos/46486952@N02/7161031760/" title="IMG_0102 by al242, on Flickr"><img src="http://farm9.staticflickr.com/8022/7161031760_fffafbc97c_m.jpg" width="160" height="240" alt="IMG_0102"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7161032122/" title="IMG_0105 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7218/7161032122_a9e37572a7_m.jpg" width="160" height="240" alt="IMG_0105"></a>
 
+Demo
+----
+
+I have put up a demo on YouTube
 
 Past and Future
 -------------------
@@ -48,31 +57,19 @@ Technical Roadmap
 
 * Fix application navigation: Currently, there is no way to exit from the game to the menu
 * Fix loading indicators: Currently, there is no standard loading paradigm which makes the application feel disjointed
-* __**Appstore Release**__
-
-- Leveling up Mechanism: Currently, there are 8 levels which are all unlocked. This needs to be improved such that there is only one level unlocked and the user needs to acheive a certain score on each level to unlock the following level 
-- High Score Mechanism: The players need an incentive to play the game.
- 
- Appstore Update 
- 
-- Fix Issue 1: Migrate the communication mechanism between the Face Detector object and the Game Controller object from NSNotificationCenter to Delegation. 
-- Fix Issue 2: Scale down the image received from the pixel bufer for faster processing. 
-- Retina Art Assets: I currently I don't have retina art assets which means the game does look very good on retina devices. 
-- Migrate to Cocos-2D V 2.0: Currently using Cocos-2D V 1.0
-
-Appstore Update 
-
-- Implement Collision Detection Using Box2D: Currently performing a simple radial collision detection
-- Game Center Integration
-
-Appstore Update 
-
-- Add a new game which can be played using the same gaming mechanism.  
-
-This application is a hybrid of Cocos2D( http://www.cocos2d-iphone.org/ ) and UIKit an incorporates the following api's:
-
-iOS 5 face Detection Api: 
-Accelerometer Api
-
-What does this exactly do:
+* Better instructions: Develop a module to get the user acquainted the unique gameplay tied in with a better "instructions" screen
+* **Appstore Release**
+* Leveling up Mechanism: Currently, there are 8 levels which are all unlocked. This needs to be improved such that there is only one level unlocked and the user needs to acheive a certain score on each level to unlock the following level 
+* High Score Mechanism: The players need an incentive to play the game.
+* **Appstore Update**
+* Fix Issue 1: Migrate the communication mechanism between the Face Detector object and the Game Controller object from NSNotificationCenter to Delegation.
+* Fix Issue 2: Scale down the image received from the pixel bufer for faster processing. 
+* Retina Art Assets: I currently I don't have retina art assets which means the game does look very good on retina devices. 
+* Migrate to Cocos-2D V 2.0: Currently using Cocos-2D V 1.0
+* **Appstore Update**
+* Implement Collision Detection Using Box2D: Currently performing a simple radial collision detection
+* Game Center Integration
+* **Appstore Update**
+* Add a new game which can be played using the same gaming mechanism.  
+* This application is a hybrid of Cocos2D( http://www.cocos2d-iphone.org/ ) and UIKit an incorporates the following api's:
 
