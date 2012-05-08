@@ -12,8 +12,8 @@ The Game
 It is a side-scrolling game. You tilt your head right, the monkey moves right. You tilt your head left, the monkey moves left. The goal is to catch as many fruits as possible and avoid all stone tablets. 
 
 iPad Screenshots:
-[![](Home Screen)](http://i49.tinypic.com/r246qa.png)
-[![](Instructions)](http://i45.tinypic.com/72rocl.png)
+[![](http://i49.tinypic.com/r246qa.png)](http://i49.tinypic.com/r246qa.png)
+[![](http://i45.tinypic.com/72rocl.png)](http://i45.tinypic.com/72rocl.png)
 
 iPhone Screenshots: 
 
