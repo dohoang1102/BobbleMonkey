@@ -13,9 +13,12 @@ The Game
 
 It is a side-scrolling game. You tilt your head right, the monkey moves right. You tilt your head left, the monkey moves left. The goal is to catch as many fruits as possible and avoid all stone tablets. 
 
-There is a built-in detection mechanism which puases the game and saves the state if: 
-1. The divice is not horizontal (uses accelerometer)
+There is a built-in detection mechanism which pauses the game and saves the state if: 
+
+1. The device is not horizontal (accelerometer)
+
 2. The user's face is lost
+
 3. Or if both the conditions are met
 
 **iPad Screenshots:**
