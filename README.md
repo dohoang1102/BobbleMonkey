@@ -37,7 +37,7 @@ There is a built-in detection mechanism which pauses the game and saves the stat
 Demo
 ----
 
-Me performing a demo on YouTube: http://www.youtube.com/watch?v=tRVsehG0Sxk
+Me performing a demo on YouTube: http://www.youtube.com/watch?v=tRVsehG0Sxk (Watch it full-screen and in HD because the recording is awkward)
 
 Minimum Requirements
 --------------------
@@ -80,4 +80,10 @@ Technical Roadmap
 * Game Center Integration
 * **Appstore Update**
 * Add a new game which can be played using the same gaming mechanism.  
+
+Thanks
+------
+
+* A big thank you to Vicki Wenderlich for the majority of the art used on this project: http://www.vickiwenderlich.com/category/free-art/
+* Another big thank you to Tim Roadly for the help with chapter selection: http://timroadley.com
 
