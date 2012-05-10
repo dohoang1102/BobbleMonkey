@@ -8,6 +8,11 @@ This is an attempt to create a unique game-playing mechanism for iOS devices; th
 
 This application is a hybrid of Cocos2D( http://www.cocos2d-iphone.org/ ) and UIKit an incorporates some iOS 5 specific api's.
 
+Demo
+----
+
+Me performing a demo on YouTube: http://www.youtube.com/watch?v=tRVsehG0Sxk (Watch it full-screen and in HD because the recording is awkward)
+
 The Game
 --------
 
@@ -34,11 +39,6 @@ There is a built-in detection mechanism which pauses the game and saves the stat
 <a href="http://www.flickr.com/photos/46486952@N02/7161031760/" title="IMG_0102 by al242, on Flickr"><img src="http://farm9.staticflickr.com/8022/7161031760_fffafbc97c_m.jpg" width="160" height="240" alt="IMG_0102"></a>
 <a href="http://www.flickr.com/photos/46486952@N02/7161032122/" title="IMG_0105 by al242, on Flickr"><img src="http://farm8.staticflickr.com/7218/7161032122_a9e37572a7_m.jpg" width="160" height="240" alt="IMG_0105"></a>
 
-Demo
-----
-
-Me performing a demo on YouTube: http://www.youtube.com/watch?v=tRVsehG0Sxk (Watch it full-screen and in HD because the recording is awkward)
-
 Minimum Requirements
 --------------------
 
@@ -59,7 +59,6 @@ Issues
 * The application does not work well on the iPhone 4 and the iPod Touch fourth gen. Here is what I suspect is why:
  * Issue 1: Currently, the Face Detector object is communicating with the Game Controller object using NSNotifactionCenter which has obvious overhead but there were thread safety issues with the communication between the Face Detector object and the Game Controller object and that was a quick fix. 
  * Issue 2: The processing of the image is very CPU intensive. On the iPad2, the grand central dispatch delegates the image-processing responsibility to the second core whereas the drawing and the image processing appears to be occurring on the same processor. An obvious solution to this issue would be to reduce the processing time. This would be accomplished by scaling the size of the image down to about 25% before sending it to be processed, the rationale being: less pixels to be processed, therefore reduced time for processing. This would reduce the accuracy of the face detection but I am only interested in the relative position of the face features.
-
 
 Technical Roadmap
 ----------------
